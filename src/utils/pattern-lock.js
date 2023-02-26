@@ -8,10 +8,10 @@ export const customTheme = {
       bg: "#ceb992", // Canvas background color
     },
     dimens: {
-      node_radius: 7, // Radius of the outer ring of a node
+      node_radius: 10, // Radius of the outer ring of a node
       line_width: 5, // Thickness of the line joining nodes
-      node_core: 3, // Radius of the inner circle of a node
-      node_ring: 1, // Outer ring thickness
+      node_core: 5, // Radius of the inner circle of a node
+      node_ring: 2, // Outer ring thickness
     },
   },
   success: {
